@@ -1,0 +1,9 @@
+{
+	"ip":"TheGreatBlazeSmp.aternos.me",
+	"port": "42711",
+	"name": "Guard_Of_TGBS",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register (GuardPro_123) (GuardPro_123)",
+	"login-cmd":"/login (GuardPro123)"
+}
